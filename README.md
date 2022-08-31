@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/adebimpecole/chart-app.git)
 - Live Site URL: [Add live site URL here](https://leafy-paprenjak-584ed8.netlify.app/)
 
 ## My process

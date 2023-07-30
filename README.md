@@ -1,6 +1,6 @@
 # Frontend Mentor - Expenses chart component solution
 
-This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt).
 
 ## Table of contents
 
@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/adebimpecole/chart-app.git)
-- Live Site URL: [Add live site URL here](https://leafy-paprenjak-584ed8.netlify.app/)
+- Solution URL: [solution URL here](https://github.com/adebimpecole/chart-app.git)
+- Live Site URL: [live site URL here](https://leafy-paprenjak-584ed8.netlify.app/)
 
 ## My process
 
